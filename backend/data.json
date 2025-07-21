@@ -1,0 +1,14 @@
+{
+  "athletes": [
+    {
+      "name": "Иван Петров",
+      "parentEmail": "ivan.parent@example.com",
+      "history": []
+    },
+    {
+      "name": "Георги Георгиев",
+      "parentEmail": "georgi.parent@example.com",
+      "history": []
+    }
+  ]
+}
